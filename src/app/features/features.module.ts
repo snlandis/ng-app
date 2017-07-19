@@ -21,4 +21,4 @@ import { FeatureDetailsComponent } from './feature-details/feature-details.compo
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class FeaturesModule { }
